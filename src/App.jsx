@@ -2,8 +2,8 @@
 import './App.css';
 import "./sass/app.scss";
 
-import TopSection from './components/top/index.jsx';
-import BottomSection from './components/bottom/index.jsx';
+import TopSection from './components/top/index';
+import BottomSection from './components/bottom/index';
 
 function App() {
   return (
